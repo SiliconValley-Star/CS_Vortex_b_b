@@ -805,6 +805,20 @@ class VortexScanEngine:
     def get_stats(self) -> Dict[str, int]:
         """Get engine statistics."""
         return self.stats.copy()
+    
+    async def get_engine_info(self) -> Dict[str, Any]:
+        """Get engine information and loaded components."""
+        return {
+            'version': 'V17.0 ULTIMATE',
+            'scanners_loaded': list(self.scanners.keys()),
+            'scanner_count': len(self.scanners),
+            'recon_available': RECON_AVAILABLE,
+            'stealth_available': STEALTH_AVAILABLE,
+            'attack_chains_available': ATTACK_CHAINS_AVAILABLE,
+            'profiling_enabled': PROFILING_ENABLED,
+            'events_available': EVENTS_AVAILABLE,
+            'stats': self.get_stats()
+        }
 
 
 # Global scan engine instance
