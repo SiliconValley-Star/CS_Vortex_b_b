@@ -1,6 +1,6 @@
 """
-VORTEX File Upload Vulnerability Scanner - V19.0
-Detects insecure file upload implementations
+VORTEX File Upload Vulnerability Scanner - V19.1
+Detects insecure file upload implementations with MIME bypass
 
 DETECTION METHODS:
 1. Extension bypass (double extensions, null bytes, case sensitivity)
