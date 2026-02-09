@@ -1,6 +1,6 @@
 """
-VORTEX XXE (XML External Entity) Scanner - V19.0
-Detects XML external entity injection vulnerabilities
+VORTEX XXE (XML External Entity) Scanner - V19.1
+Detects XML external entity injection vulnerabilities with OOB support
 
 DETECTION METHODS:
 1. Classic XXE (external entity file read)
