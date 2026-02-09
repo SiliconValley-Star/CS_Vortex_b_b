@@ -1,6 +1,6 @@
 """
-VORTEX SSTI (Server-Side Template Injection) Scanner - V19.0
-Detects server-side template injection vulnerabilities
+VORTEX SSTI (Server-Side Template Injection) Scanner - V19.1
+Detects server-side template injection vulnerabilities across 8+ template engines
 
 DETECTION METHODS:
 1. Template engine detection (Jinja2, Twig, FreeMarker, Velocity, etc.)
