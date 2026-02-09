@@ -1,0 +1,58 @@
+# Vortex Proxy List Example (FREE Methods Only)
+# ================================================
+#
+# SUPPORTED FORMATS:
+# 1. host:port
+# 2. host:port:username:password
+# 3. protocol://host:port (auto-detect protocol)
+#
+# SUPPORTED PROTOCOLS:
+# - http
+# - https
+# - socks4
+# - socks5
+#
+# ================================================
+# FREE PROXY EXAMPLES
+# ================================================
+
+# Tor (FREE - requires Tor running locally)
+socks5://127.0.0.1:9050
+
+# Burp Suite (FREE - local intercepting proxy)
+http://127.0.0.1:8080
+
+# OWASP ZAP (FREE - local intercepting proxy)
+http://127.0.0.1:8081
+
+# Custom SOCKS5 proxy
+# socks5://your-proxy-server.com:1080
+
+# HTTP proxy with authentication
+# http://username:password@proxy.example.com:3128
+
+# ================================================
+# NOTES
+# ================================================
+#
+# 1. Lines starting with # are comments (ignored)
+# 2. Empty lines are ignored
+# 3. Vortex automatically rotates between all proxies
+# 4. Failed proxies are temporarily banned (30 min cooldown)
+# 5. For residential/datacenter proxies, supply your own
+#
+# ================================================
+# TESTING PROXIES
+# ================================================
+#
+# Test before using:
+#   curl --proxy http://127.0.0.1:8080 https://httpbin.org/ip
+#   curl --proxy socks5://127.0.0.1:9050 https://check.torproject.org
+#
+# ================================================
+# USAGE
+# ================================================
+#
+#   python main.py scan https://target.com --proxy-list proxies.txt
+#
+# ================================================
