@@ -1,6 +1,6 @@
 """
-VORTEX JWT (JSON Web Token) Security Scanner - V19.0
-Detects JWT implementation vulnerabilities
+VORTEX JWT (JSON Web Token) Security Scanner - V19.1
+Detects JWT implementation vulnerabilities with algorithm confusion
 
 DETECTION METHODS:
 1. Algorithm confusion (none, HS256 vs RS256)
