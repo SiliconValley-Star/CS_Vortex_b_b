@@ -1,5 +1,5 @@
 """
-Test suite for XSS Scanner
+Test suite for XSS Scanner - V19.1
 Tests payload reflection detection, context analysis, and XSS identification
 """
 
