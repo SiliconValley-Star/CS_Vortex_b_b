@@ -1,5 +1,5 @@
 """
-Test suite for CSRF (Cross-Site Request Forgery) Scanner
+Test suite for CSRF (Cross-Site Request Forgery) Scanner - V19.1
 Tests token validation, SameSite cookies, and origin validation
 """
 
