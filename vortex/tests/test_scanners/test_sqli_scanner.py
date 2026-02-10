@@ -1,6 +1,6 @@
 """
-Test suite for SQL Injection Scanner
-Tests payload generation, response analysis, and detection logic
+Test suite for SQL Injection Scanner - V19.1
+Tests payload generation, response analysis, and detection logic with WAF bypass
 """
 
 import pytest
