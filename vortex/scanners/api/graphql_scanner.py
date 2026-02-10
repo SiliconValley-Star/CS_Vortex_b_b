@@ -1,6 +1,6 @@
 """
-VORTEX GraphQL Security Scanner - V19.0
-Comprehensive GraphQL API security testing
+VORTEX GraphQL Security Scanner - V19.1
+Comprehensive GraphQL API security testing with introspection
 
 CAPABILITIES:
 - Introspection query exploitation
