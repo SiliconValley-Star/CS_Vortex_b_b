@@ -1,6 +1,6 @@
 """
-VORTEX API Security Testing Module - V19.0 ULTIMATE
-Comprehensive API security testing for REST, GraphQL, and gRPC
+VORTEX API Security Testing Module - V19.1 ULTIMATE
+Comprehensive API security testing for REST, GraphQL, and gRPC endpoints
 
 CAPABILITIES:
 - OpenAPI/Swagger specification parsing
