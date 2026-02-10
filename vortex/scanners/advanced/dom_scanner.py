@@ -1,6 +1,6 @@
 """
-VORTEX Advanced Browser-Based Scanner - V18.0 ULTIMATE
-Playwright integration for DOM-based vulnerability detection
+VORTEX Advanced Browser-Based Scanner - V18.1 ULTIMATE
+Playwright integration for DOM-based vulnerability detection with sink analysis
 
 CAPABILITIES:
 - DOM XSS detection with JavaScript execution
